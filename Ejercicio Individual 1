@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T14:51:40.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" version="14.6.9" etag="FZxrFve3qCG5wxO2U74k" type="github"><diagram id="hsIQvIBMFZQkJIbaTd0_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-03T15:22:11.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="e7EZpsjRupKuqwxcTTmU" version="14.6.9" type="github">
+  <diagram id="hsIQvIBMFZQkJIbaTd0_" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-1" value="Diagrama de flujo Trabajo individual 1&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-2" value="Solicitamos por teclado el primer digito" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-3" target="nFGXA_02V5a9q3fm6ajz-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-3" target="nFGXA_02V5a9q3fm6ajz-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-3" value="Solicitamos por teclado el segundo digito" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-5" target="nFGXA_02V5a9q3fm6ajz-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-5" value="Creamos el numero 100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-6" target="nFGXA_02V5a9q3fm6ajz-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-6" value="Creamos el numero 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-10" target="nFGXA_02V5a9q3fm6ajz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-10" value="Generamos numero ingresaso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-14" target="nFGXA_02V5a9q3fm6ajz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-14" value="Invertimos el numero ingresado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-16" target="nFGXA_02V5a9q3fm6ajz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-16" value="sumamos numero ingresado mas su inverso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-17" target="nFGXA_02V5a9q3fm6ajz-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="470" />
+              <mxPoint x="680" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-17" value="se crea un nuevo numero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-20" target="nFGXA_02V5a9q3fm6ajz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-20" value="Invertimos el nuevo numero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-23" target="nFGXA_02V5a9q3fm6ajz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-23" value="Sumamos nuevo numero mas nuevo numero invertido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="575" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-25" target="nFGXA_02V5a9q3fm6ajz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-25" value="Se genera el numero capicua" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nFGXA_02V5a9q3fm6ajz-27" target="nFGXA_02V5a9q3fm6ajz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-27" value="Se muestra por pantalla" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="710" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nFGXA_02V5a9q3fm6ajz-29" value="Cerramos el Programa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="710" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
